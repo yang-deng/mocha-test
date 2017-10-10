@@ -26,5 +26,8 @@
     "express": "^4.16.2",
     "mocha": "^4.0.1",
     "sinon": "^4.0.1"
+  },
+  "devDependencies": {
+    "mochawesome": "^2.3.1"
   }
 }
