@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/yang-deng/mocha-test#readme",
   "dependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
